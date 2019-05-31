@@ -1,0 +1,17 @@
+loading top3_s1.jpg
+detection   0: id (36x11)-33  , hamming 0, margin   68.447
+ 0                             init        0.012000 ms        0.012000 ms
+ 1                         decimate       85.132000 ms       85.144000 ms
+ 2                       blur/sharp        0.006000 ms       85.150000 ms
+ 3                        threshold      322.492000 ms      407.642000 ms
+ 4                        unionfind      718.298000 ms     1125.940000 ms
+ 5                    make clusters     1533.625000 ms     2659.565000 ms
+ 6            fit quads to clusters     3442.572000 ms     6102.137000 ms
+ 7                            quads       11.202000 ms     6113.339000 ms
+ 8                decode+refinement      242.005000 ms     6355.344000 ms
+ 9                        reconcile        0.033000 ms     6355.377000 ms
+10                     debug output        0.001000 ms     6355.378000 ms
+11                          cleanup        0.923000 ms     6356.301000 ms
+hamm     1     0     0     0     0     0     0     0     0     0     6356.289   522
+Summary
+hamm     1     0     0     0     0     0     0     0     0     0     6356.289   522

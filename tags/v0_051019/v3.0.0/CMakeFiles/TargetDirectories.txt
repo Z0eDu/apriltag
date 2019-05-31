@@ -1,0 +1,9 @@
+/home/pi/apriltag/tags/v3.0.0/CMakeFiles/install/local.dir
+/home/pi/apriltag/tags/v3.0.0/CMakeFiles/list_install_components.dir
+/home/pi/apriltag/tags/v3.0.0/CMakeFiles/rebuild_cache.dir
+/home/pi/apriltag/tags/v3.0.0/CMakeFiles/install.dir
+/home/pi/apriltag/tags/v3.0.0/CMakeFiles/apriltag.dir
+/home/pi/apriltag/tags/v3.0.0/CMakeFiles/apriltag_demo.dir
+/home/pi/apriltag/tags/v3.0.0/CMakeFiles/opencv_demo.dir
+/home/pi/apriltag/tags/v3.0.0/CMakeFiles/install/strip.dir
+/home/pi/apriltag/tags/v3.0.0/CMakeFiles/edit_cache.dir
